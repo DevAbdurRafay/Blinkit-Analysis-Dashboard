@@ -14,6 +14,16 @@ This project is a fully interactive Excel-based dashboard that provides detailed
 
 <hr>
 
+<h2>Software Used</h2>
+
+<p align="left">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge"/>
+  </a>
+</p>
+
+<hr>
+
 <h2>Key Features</h2>
 <ul>
   <li>Total and average sales analysis</li>
@@ -59,7 +69,7 @@ This project is a fully interactive Excel-based dashboard that provides detailed
 <h2>Folder Structure</h2>
 
 <pre>
-Blinkit-Analysis-Dashboard/
+Blinkit-Analysis-Dashboard
 ├── Blinkit Analysis.xlsx
 ├── Blinkit Analysis.jpg
 ├── BlinkIT Grocery Data Excel.xlsx
