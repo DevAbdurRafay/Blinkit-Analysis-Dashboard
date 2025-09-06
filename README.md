@@ -1,4 +1,5 @@
 <h1 align="center">Blinkit Analysis Dashboard</h1>
+
 <p align="center">
 An interactive Excel dashboard for visualizing Blinkit's retail performance using Pivot Tables, Charts, and Slicers — focusing on sales, ratings, and outlet performance.
 </p>
